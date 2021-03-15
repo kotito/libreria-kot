@@ -1,0 +1,39 @@
+PCAD Importer Log
+Project : DF01S.LibPkg
+
+Section : C:\Users\KOT\AppData\Local\Temp\Rar$DRa696.33664\DF01S.lia
+    Section : PCB Library - DF01S.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 100
+            Warning - 1 : Skipping Token isVisible On Line 101
+            Warning - 1 : Skipping Token isVisible On Line 102
+            Warning - 1 : Skipping Token isVisible On Line 103
+            Warning - 1 : Skipping Token isVisible On Line 129
+            Warning - 1 : Skipping Token isVisible On Line 130
+            Warning - 1 : Skipping Token isVisible On Line 131
+            Warning - 1 : Skipping Token isVisible On Line 132
+            Warning - 1 : Skipping Token isVisible On Line 160
+            Warning - 1 : Skipping Token isVisible On Line 161
+            Warning - 1 : Skipping Token isVisible On Line 162
+            Warning - 1 : Skipping Token isVisible On Line 163
+            Warning - 1 : Skipping Token DF01S On Line 169
+            Warning - 1 : Skipping Token attachedSymbol On Line 236
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - DF01S.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 136
+        EndSection
+
+        Section : Generating SCH Library - DF01S.SchLib
+        EndSection
+    EndSection
+EndSection
