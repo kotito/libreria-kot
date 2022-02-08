@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=L78L12ACD13TR.SchLib
+DocumentPath=Amplificador monolitico.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -52,10 +52,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PGCCDQZX
+DocumentUniqueId=PLLUSBLW
 
 [Document2]
-DocumentPath=L78L12ACD13TR.PcbLib
+DocumentPath=Amplificador monolitico.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EDFIGGQF
+DocumentUniqueId=JKOHMSZA
 
 [OutputGroup1]
 Name=Netlist Outputs
